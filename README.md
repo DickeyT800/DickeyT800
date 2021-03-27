@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DickeyT800
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me, don't.
 
